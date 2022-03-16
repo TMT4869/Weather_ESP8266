@@ -1,0 +1,24 @@
+{
+    "name": "Timer",
+    "keywords": "timer",
+    "description": "Timer Library",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JChristensen/Timer.git"
+    },
+    "authors": [
+        {
+            "name": "Jack Christensen",
+            "maintainer": true
+        },
+        {
+            "name": "Simon Monk"
+        },
+        {
+            "name": "Damian Philipp"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "atmelavr",
+    "version": "0.0.0-alpha+sha.bfef59000d"
+}
